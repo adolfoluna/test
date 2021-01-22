@@ -5,3 +5,7 @@ Version 4 from adolfobranch at 3:19
 function test1() {
 }
 
+function test2() {
+  //this change was made on github
+}
+
