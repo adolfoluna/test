@@ -12,6 +12,10 @@ function test2() {
 Function fromLocalBranch() {
 }
 
+function fromRemoteMasterBranch() {
+//this was implemented on github at 8:43
+//upadted at 8:45
+}
 
 function fromLocalBranch() {
 	//create at 8:41
