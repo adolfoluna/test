@@ -12,6 +12,9 @@ function test2() {
 Function fromLocalBranch() {
 }
 
+function fromRemoteMasterBranch() {
+//this was implemented on github at 8:43
+}
 
 
 
