@@ -5,3 +5,5 @@ Version 4 from adolfobranch at 3:19
 function test1() {
 }
 
+Function fromLocalBranch() {
+}
